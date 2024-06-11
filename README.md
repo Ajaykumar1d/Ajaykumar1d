@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" />
 
-- 🌱 I’m currently learning **Swift, Objective-C**
+- 🌱 **Swift, UIKit, SwiftUI**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
