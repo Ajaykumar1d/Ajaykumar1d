@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ajaykumar1d&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/ajaykumard" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/twitter/follow/ajaykumard?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
 
 <p align="right">
   <img alt="Coding GIF" height="160px" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" />
